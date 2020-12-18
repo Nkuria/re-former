@@ -1,24 +1,57 @@
-# README
+# reformer
+Html forms and validation exercise
+> This is is a basic rails project meant to  test on creating and validating HTML forms
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Ruby
+- Ruby on Rails
+- Visual Studio Code
 
-* Ruby version
+### Prerequisites
 
-* System dependencies
+- Ruby should be installed
+- A terminal should be installed
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
+- Follow this link to the repo: https://github.com/Nkuria/re-former.git
+- Clone all the files and branches onto your local machine
+- Open the folder using a suitable editor such as visual studio code
+- Open a terminal and navigate to the cloned folder using the 'cd' command
+- run bundle install to install all the required ruby gems
+- To see the application in action enter the 'rails console' command. Here you can play around with creating new users, posts or comments
 
-* Database initialization
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Nick**
 
-* Deployment instructions
+- GitHub: [@Nkuria](https://github.com/Nkuria)
+- LinkedIn: [Nick Kuria](https://www.linkedin.com/in/nick-kuria-a148931a9/)
 
-* ...
+👤 **Misori**
+
+- Github: [@Misori-Simon](https://github.com/Misori-simon)
+- Twitter: [@misori_simon](https://twitter.com/misori_simon)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Misori-simon/micro_reddit/issues).
+
+## Acknowledgments and licenses
+
+Show your support Give a ⭐️ if you like this project!
+
+Acknowledgments Hat tip to anyone whose code was used Inspiration etc
+
+📝 License This is a collaborative project between two microverse students. All rights are reserved for Nick and Simon.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
